@@ -1,0 +1,14 @@
+{
+  "debug": true,
+  "commandPrefix": "!",
+  "guildId": "1064569325375205467",
+  "botToken": "MTA2NTczMzA0NjUzNzU1NTk2OA.G5TnvQ.sj3iwkI-fTySfyKJ9rWaTrF6cOxeDSOr__xSf8",
+  "botAuditChannel": "discord-bot-log",
+  "killFeedsChannel": "1064986120066183218",
+  "chatFeedsChannel": "1064986120066183218",
+  "raffleChannel": "1064986120066183218",
+  "databaseHost": "127.0.0.1",
+  "databaseUsername": "username",
+  "databasePassword": "password",
+  "databaseName": "scumbot_development"
+}
